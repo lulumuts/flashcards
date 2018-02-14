@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+}
+
+ .container{
+   text-align: justify;
+ }
+
+ h1 {
+   font-size: 70px;
+ }
+
+ h2 {
+   font-size: 20px;
+ }
+
+ .showing {
+        display: none;
+  }
+
+.operators {
+        display: none;
+}
+
+.clickable {
+    cursor: pointer;
+    color: #0088cc;
+}
+
+.clickable:hover {
+text-decoration: underline;
+}
